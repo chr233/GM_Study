@@ -19,20 +19,29 @@
   - VS Code
   - Git 使用基础
   - 远程 Git 仓库
-
 - 脚本分发 （P0 [文章](doc/P0.md) [视频](https://www.bilibili.com/video/BV1Da411Z7s7)）
 
   - Greasyfork 使用
   - 使用 WebHook 自动更新
+- 开发者工具简介  （P1 [文章](doc/P1.md)）
+  - 元素
+  - 控制台
+  - 源代码
+  - 网络
+  - 应用
 
-- JavaScript 基础
-- 开发者工具与调试技巧
+- JavaScript 基础  （P1 [文章](doc/P1.md)）
+  - 变量与常量
+  - 作用域
+  - 数据类型与类型转换
+  - 执行流
+  - 浏览器对象
+
 - 油猴脚本组成
 
   - 元信息
   - 脚本
   - 库
-
 - CSS 选择器与 XPath 语法基础
 - DOM 元素操作
 - Event 事件
